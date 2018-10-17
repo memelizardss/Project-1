@@ -1,0 +1,95 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "47CB7C28-5749-4DD6-97F3-0F95466699E6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 258,
+    "width": 353,
+    "x": 11,
+    "y": 100
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule / dropdown",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "96900F4D-B596-4523-950F-975986950F88",
+      "overrideName": "36BEFC3B-BBDA-4759-B430-69AA28777D30_stringValue",
+      "value": "Dogs name"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0DBCD0AB-3C3B-4839-ABC8-9F53715DFC83",
+      "overrideName": "8ACC1584-1870-4B19-A422-ADE927BB81D1_stringValue",
+      "value": "Dogs name"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2A7A196E-9E12-4AAD-9362-AD868223C349",
+      "overrideName": "6DFA4FBC-D620-4C61-8702-9690E3D78246_stringValue",
+      "value": "School name"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "EF461890-8CEB-4479-BD41-90EC52B78533",
+      "overrideName": "74365E94-14D0-4C7D-AEC7-B356C3960A81_stringValue",
+      "value": "first pet"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "08159841-9DEC-4FBE-A7BB-6D20AF73AB03",
+      "overrideName": "795E212B-CC60-4978-B087-98117DFF09A3_stringValue",
+      "value": "first car"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "087F6EA5-39C8-4B4D-A55F-8493A619E2D7",
+      "overrideName": "98EC1233-B925-42DF-A5B1-8849A5405790_stringValue",
+      "value": "mom's maiden name"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "941FF7B8-582B-42E6-ADEF-4FF21ED3D389",
+      "overrideName": "21B0F8FF-8154-464D-93C1-2EC7BF0273E2_stringValue",
+      "value": "favourite colour"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BC265CD9-649B-477E-BB2E-2CCC9BF3181D",
+      "overrideName": "3A123ECF-36EB-4D33-B434-FB8C3109E3BE_stringValue",
+      "value": "Biggest mood"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "8459C6E0-C4E9-42F2-92DA-604C885F5E6D",
+  "verticalSpacing": 0
+}
