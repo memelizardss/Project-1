@@ -1,0 +1,59 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "720B6A11-0FA7-4849-8A7C-9743F5DD5AE4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 74,
+    "width": 352,
+    "x": 12,
+    "y": 393
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule/ label",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6D0EE78E-FC5F-4405-BE03-E8B83C994DE8",
+      "overrideName": "7C7933E5-73CD-4C30-8683-ED185F178FC6_stringValue",
+      "value": "Answer"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "EC72BBF3-D498-439F-88E4-007110123717",
+      "overrideName": "A61FF38D-1DB6-4A14-A294-F05AB24B253F_stringValue",
+      "value": "I dont care my dude"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "005A930B-A55A-4E20-814B-894266604CC3",
+  "verticalSpacing": 0
+}

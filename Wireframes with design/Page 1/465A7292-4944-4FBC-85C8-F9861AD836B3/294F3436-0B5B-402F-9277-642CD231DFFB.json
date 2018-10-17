@@ -1,0 +1,59 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "294F3436-0B5B-402F-9277-642CD231DFFB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 74,
+    "width": 352,
+    "x": 14,
+    "y": 350
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule/ label",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E9224D97-7D40-458F-95BD-77A2DBEF345B",
+      "overrideName": "7C7933E5-73CD-4C30-8683-ED185F178FC6_stringValue",
+      "value": "Answer"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "703E70C4-1FFC-4CF0-8F83-0BA41AB7B552",
+      "overrideName": "A61FF38D-1DB6-4A14-A294-F05AB24B253F_stringValue",
+      "value": "No"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "005A930B-A55A-4E20-814B-894266604CC3",
+  "verticalSpacing": 0
+}
